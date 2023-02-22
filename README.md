@@ -1,0 +1,1 @@
+A library app created to help me better understand the use of the express backend framework. This was developed with reference to MDN documentation.
