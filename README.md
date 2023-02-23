@@ -1,1 +1,1 @@
-A library app created to help me better understand the use of the express backend framework. This was developed with reference to MDN documentation.
+A library app that I'm currently working on to understand the use of the express backend framework. Using the MDN documentation to guide my learning.
