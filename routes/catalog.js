@@ -6,9 +6,9 @@ const router = express.Router();
 
 // require controller modules
 const book_controller = require("../controllers/bookController");
-const author_controler = require("../controllers/authorController");
+const author_controller = require("../controllers/authorController");
 const genre_controller = require("../controllers/genreController");
-const bookinstance_controller = require("../controllers/bookinstanceController");
+const book_instance_controller = require("../controllers/bookinstanceController");
 
 /// BOOK ROUTES ///
 
